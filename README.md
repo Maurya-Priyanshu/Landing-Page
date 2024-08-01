@@ -18,7 +18,7 @@ The following technologies were used in the development of this project:
 ## Getting Started
 To get started with EasyE-Bazaar, follow these steps:
 
-1. Clone the repository: **`https://github.com/dhaliwalarsh49/EasyE-Bazaar.git`**
+1. Clone the repository: **`https://github.com/Maurya-Priyanshu/Landing-Page`**
 2. Open the project folder: **`cd EasyE-Bazaar`**
 3. Open the **`index.html`** file in your preferred web browser.
 
